@@ -12,9 +12,9 @@ Make sure to have `node 8.0+` and `npm 5.0+` installed
 
 This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
 
-``` bash
-$ vue init nuxt-community/starter-template my-project  
-$ cd my-project                     
+```bash
+$ vue init pyramation/nuxt-latex2vue-template
+$ cd my-project
 # install dependencies
 $ npm install # Or yarn install
 ```
@@ -25,7 +25,7 @@ $ npm install # Or yarn install
 
 ### Development
 
-``` bash
+```bash
 # serve with hot reloading at localhost:3000
 $ npm run dev
 ```
@@ -34,7 +34,7 @@ Go to [http://localhost:3000](http://localhost:3000)
 
 ### Production
 
-``` bash
+```bash
 # build for production and launch the server
 $ npm run build
 $ npm start
@@ -42,7 +42,7 @@ $ npm start
 
 ### Generate
 
-``` bash
+```bash
 # generate a static project
 $ npm run generate
 ```
