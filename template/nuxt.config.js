@@ -16,7 +16,7 @@ module.exports = {
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   },
 
-  css: ['latex2js/lib/latex2js.css'],
+  css: ['latex2js/latex2js.css'],
 
   plugins: [{ src: '~plugins/latex2vue.js', ssr: false }],
 
